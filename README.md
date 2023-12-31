@@ -5,7 +5,6 @@ This Campaign is divided into 4 chapters and is still being tested. If you find 
 **Reward:**
 
 * 20 Warrior Monks will join your army
-* 20 Warrior Monks will join your army
 * 50 Honor	
 * Unlock Buildings:
 	
